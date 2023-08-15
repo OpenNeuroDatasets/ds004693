@@ -10,9 +10,10 @@
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "TODO: eventually a DOI for the dataset",
     "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
+        "Max Planck Research Group (M.TN.A.NEPF0009)",
+        "ERC Starting Grant (ERC-StG-2021-101039712)",
+        "German Research Council Grants (CI241/1-1, CI241/3-1, CI241/7-1)",
+        "ERC Starting Grant (ERC-StG-2018-803370)"
     ],
     "HowToAcknowledge": "Please cite the preprint (Link:)",
     "License": "CC0",
