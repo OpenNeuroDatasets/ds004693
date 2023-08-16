@@ -1,0 +1,22 @@
+{
+    "Acknowledgements": "",
+    "Authors": [
+        "Johannes Singer",
+        "Agnessa Karapetian",
+        "Martin Hebart",
+        "Radoslaw Cichy"
+    ],
+    "BIDSVersion": "1.4.1",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004693.v1.0.0",
+    "Funding": [
+        "Max Planck Research Group (M.TN.A.NEPF0009)",
+        "ERC Starting Grant (ERC-StG-2021-101039712)",
+        "German Research Council Grants (CI241/1-1, CI241/3-1, CI241/7-1)",
+        "ERC Starting Grant (ERC-StG-2018-803370)"
+    ],
+    "HowToAcknowledge": "Please cite the preprint (Link:)",
+    "License": "CC0",
+    "Name": "The link between visual representations and behavior in human scene perception",
+    "ReferencesAndLinks": [],
+    "EthicsApprovals": []
+}
