@@ -3,7 +3,7 @@ This dataset contains the raw fMRI data accompanying the paper "The link between
 The dataset includes:
 
 1. anat/ anatomical scans (T1-weighted images) for each subject
-2. func/ whole-brain EPI data from either 9 or 11 runs (1 localizer, 8/10 main experiment) for each participant. The events files contain the onsets, durations and trial types for all trials in the corresponding run.
+2. func/ part-brain EPI data from either 9 or 11 runs (1 localizer, 8/10 main experiment) for each participant. The events files contain the onsets, durations and trial types for all trials in the corresponding run.
 
 Please note that the data for subject 12 was excluded, due to incidental neurological findings. 
 
