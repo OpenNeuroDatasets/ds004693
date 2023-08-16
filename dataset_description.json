@@ -7,7 +7,7 @@
         "Radoslaw Cichy"
     ],
     "BIDSVersion": "1.4.1",
-    "DatasetDOI": "TODO: eventually a DOI for the dataset",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004693.v1.0.0",
     "Funding": [
         "Max Planck Research Group (M.TN.A.NEPF0009)",
         "ERC Starting Grant (ERC-StG-2021-101039712)",
